@@ -150,14 +150,6 @@ activemq-data/
 *.sage.py
 
 # Environments
-.env
-.envrc
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
 
 # Spyder project settings
 .spyderproject
@@ -221,7 +213,6 @@ __marimo__/
 __pycache__/
 *.py[cod]
 .pytest_cache/
-.venv/
 data/*.db
 .DS_Store
 
